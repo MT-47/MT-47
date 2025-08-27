@@ -4,6 +4,10 @@
 
 <br clear="both">
 
+<img align="left" height="112" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ4ZzN5Z25kMmowYjQ4NjRmZWVlNm1iOW16YmgxaWhnbTE1b2t1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+
+###
+
 <h6 align="center">Computer Systems Engineering graduate with solid background in programming (C++, Python), web development, and databases. Passionate about UI/UX design and committed to creating effective and userfriendly solutions. Highly organized, detail-oriented, and eager to contribute to the Web & User Interface Development track. Motivated to continuously learn new technologies and enhance technical and creative skills.</h6>
 
 ###
@@ -30,13 +34,9 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MT-47.MT-47&left_text=profile%20visitors"  />
-
-###
-
-<br clear="both">
-
-<img align="left" height="110" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ4ZzN5Z25kMmowYjQ4NjRmZWVlNm1iOW16YmgxaWhnbTE1b2t1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MT-47.MT-47&left_text=profile%20visitors"  />
+</div>
 
 ###
 
