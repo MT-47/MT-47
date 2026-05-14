@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/mustafa-taher47/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-mustafa--taher47-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/mustafataher3" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-mustafataher3-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
   <a href="mailto:mustafataheer47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mustafataheer47-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -25,8 +22,6 @@ I build end-to-end web applications and have a strong interest in AI-powered sys
  
 - 🎓 BSc in Computer Systems Engineering — Zagazig University (2025)
 - 🏋️ ITI Trainee — Full-Stack .NET & Generative AI Track (Jan 2026 – Present)
-- 🌍 Based in Zagazig, Egypt | Open to Relocation
-- 🪖 Military Status: Exempted
 ---
  
 ## 🚀 Featured Projects
@@ -67,9 +62,6 @@ Full-stack crowdfunding platform with role-based access control.
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
  
 ### Backend & Data
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -86,39 +78,10 @@ Full-stack crowdfunding platform with role-based access control.
  
 ## 📊 GitHub Stats
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MT-47&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MT-47&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MT-47&theme=github-dark-blue&hide_border=true" />
 </p>
----
- 
-## 📜 Certifications
- 
-| Course | Platform | Date |
-|--------|----------|------|
-| C# Advanced Topics: Prepare for Technical Interviews | Udemy | May 2026 |
-| C# Intermediate: Classes, Interfaces and OOP | Udemy | Mar 2026 |
-| C# Basics for Beginners | Udemy | Mar 2026 |
-| UX Design Fundamentals | MaharaTech ITI | Oct 2025 |
-| Learn HTML & CSS | MaharaTech ITI | Aug 2025 |
-| Mastering OOP using C++ | MaharaTech ITI | Aug 2025 |
-| Database Fundamentals | MaharaTech ITI | May 2025 |
- 
----
- 
-## 🤝 Volunteering & Activities
- 
-- 🩸 **Resala Charity Organization** — Blood donation drives, fundraising & disaster relief (2016)
-- 🤖 **IEEE Zagazig SB – AI Chapter** — Active Member, organized AI workshops & sessions (2023–2024)
----
- 
-## 🌐 Languages
- 
-- 🇸🇦 **Arabic** — Native
-- 🇬🇧 **English** — B2
 ---
  
 <p align="center">
